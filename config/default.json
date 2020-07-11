@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://basit:nanakart@merni.afvbu.mongodb.net/merni?retryWrites=true&w=majority"
+}
