@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://basit:nanakart@merni.afvbu.mongodb.net/merni?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://basit:nanakart@merni.afvbu.mongodb.net/merni?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
 }
